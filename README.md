@@ -7,7 +7,9 @@ Tested using several randomly generated data sets.
 Test Outputs:
 
 Test 1:
+
 Matrix:
+
 5 2 1
 
 2 8 9
@@ -17,15 +19,25 @@ Matrix:
 Maximum cost to traverse = 26
 
 Test 2:
+
 Matrix:
+
 0 1 0
+
 9 1 8
+
 5 8 1
+
 Maximum cost to traverse = 23
 
 Test 3:
+
 Matrix:
+
 6 1 8
+
 1 2 5
+
 5 4 6
+
 Maximum cost to traverse = 26
