@@ -9,8 +9,11 @@ Test Outputs:
 Test 1:
 Matrix:
 5 2 1
+
 2 8 9
+
 2 0 2
+
 Maximum cost to traverse = 26
 
 Test 2:
